@@ -33,12 +33,12 @@ h1, h2 {
 	width:450px;
 	height:281px;
 	transition: background-image 2s ease-in-out;
-    background-image: url("pic.jpg"); 
+    background-image: url("pic.JPG"); 
 	background-repeat:no-repeat;	
 }
 
 #mainpage:hover {
-  background-image:url("pic2.jpg");
+  background-image:url("pic2.JPG");
 }
 
 #aboutpage {
