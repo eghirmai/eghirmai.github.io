@@ -33,12 +33,12 @@ h1, h2 {
 	width:450px;
 	height:281px;
 	transition: background-image 2s ease-in-out;
-    background-image: url("abj7.JPG"); 
+    background-image: url("abj7.jpg"); 
 	background-repeat:no-repeat;	
 }
 
 #mainpage:hover {
-  background-image:url("abj7a.JPG");
+  background-image:url("abj7a.jpg");
 }
 
 #aboutpage {
